@@ -1,0 +1,25 @@
+{
+  "name": "boba",
+  "description": "Boba.js is a small, easily extensible JavaScript library that makes working with Google Analytics easier.",
+  "main": "boba.js",
+  "authors": [
+    "Mike Anderson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "tracking"
+  ],
+  "homepage": "https://github.com/space150/boba.js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
